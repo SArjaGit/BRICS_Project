@@ -1,6 +1,6 @@
 # BRICS World Bank Indicators Analysis 
 
-## Team - pandas-geeks
+## Team - <span style="color: red;">pandas-geeks</span>
   * Debasis Pradhan
   * Justin Fisher
   * Dominique Davis
