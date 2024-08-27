@@ -24,4 +24,7 @@
 
  * 2010 - 2019
 
-## The Analysis is represented in Data Graphs for better understanding and visualization.
+## Expected Outcome from the Analysis
+ * The Analysis is represented in Data Graphs for better understanding and visualization.
+ * Use Prophet to fit and predit forecast in the mentioned areas.
+ * Prepare a presentation to share the Analysis.
