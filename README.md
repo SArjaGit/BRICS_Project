@@ -1,5 +1,5 @@
 # BRICS Performance Indicators Analysis 
-  This Project is to visualize, compare, and understand the development of emerging economies related to Economic,   Education and Environment, Health and Poverty and Private Sector for BRICS countries. We will be standardizing and updating the insightful data from the World Bank, it allows for better analysis and insights into each country’s economy. 
+  This Project is to visualize, compare, and understand the development of emerging economies related to Economic, Education and Environment, Health and Poverty and Private Sector for BRICS countries. We will be standardizing and updating the insightful data from the World Bank, it allows for better analysis and insights into each country’s economy. 
   
 ## Team - <span style="color:red;">pandas-geeks</span>
   * Debasis Pradhan
@@ -20,13 +20,13 @@
      * Agricultural land
      * Children out of school, primary, male
      * **such as**
-  * Health and Proverty Data: 
+  * Health and Poverty Data: 
      * Birth Rate
      * Cause of Death
      * Immunization
      * Current Health Expenditure
      * **such as**
-  * private Sector Data:
+  * Private Sector Data:
      * Service Exports
      * Ease of doing business
      * Volume Index
