@@ -48,5 +48,5 @@
 
 ## Expected Outcome from the Analysis
  * The Analysis is represented in Data Graphs for better understanding and visualization.
- * Use Prophet to fit and predit forecast in the mentioned areas.
+ * Compare and correlate series from different sections to check the relation.
  * Prepare a presentation to share the Analysis.
