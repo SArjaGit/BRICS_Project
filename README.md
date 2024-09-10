@@ -54,16 +54,52 @@
          ***Observation*** - The Chinese Gross Domestic Product adjusted for inflation increased rapidly compared with rest of the countries which are almost constant  through out the years.
      
   * ### Education and Environment Data:
-     * Access to electricity
-     * Agricultural land
-     * Children out of school, primary, male
-     * **such as**
+     * **Rural population (% of total population)** - 
+            Rural population (% of total population) is a metric that indicates the proportion of a country’s population living in rural areas compared to the total population. This measure helps to understand the distribution of people between urban and rural settings and can provide insights into economic development, infrastructure needs, and social services
+         
+         ***Observation*** - The Country's population living int he rural areas has decreased for all the countries across the span of time.
+
+     * **Urban population (% of total population)** - 
+            Urban population (% of total population) is a metric that indicates the proportion of a country’s population living in urban areas compared to the total population. This measure helps to understand the distribution of people between urban and rural settings and provides insights into economic development, infrastructure needs, and social services
+
+         ***Observation*** - The Country's population living int he rural areas has increased for all the countries across the span of time.
+
+     * **Employment in agriculture (% of total employment)** - 
+            Measures the proportion of a country’s workforce engaged in agricultural activities, including farming, forestry, and fishing. This metric provides insights into the economic structure and development stage of a country
+         
+         ***Observation*** - The Country's workforce engaged agricultural activities, including farming, forestry, and fishing has decreased for all the countries across the span of time.
+
+     * **Employment in industry (% of total employment)** - 
+            Employment in industry (% of total employment) measures the proportion of a country’s workforce employed in the industrial sector, which includes manufacturing, mining, construction, and utilities. This metric provides insights into the structure of the labor market and the role of industrial activities in the economy.
+
+         ***Observation*** - The Country's workforce engaged in industrial sector, which includes manufacturing, mining, construction, and utilities has decreased for all the countries except for India across the span of time.
+
+     * **Employment in services (% of total employment)** - 
+            Measures the proportion of a country’s workforce employed in the service sector. This sector includes a wide range of activities such as retail, hospitality, finance, healthcare, education, and professional services. Understanding this metric provides insights into the structure of the labor market and the role of services in the economy
+
+         ***Observation*** - The Country's workforce engaged in iretail, hospitality, finance, healthcare, education, and professional services has increased for all the countries across the span of time.
+
   * ### Health and Poverty Data: 
-     * Birth Rate
-     * Cause of Death
-     * Immunization
-     * Current Health Expenditure
-     * **such as**
+     * 
+     * Mortality rate, under-5 (per 1,000 live births)
+     * Life expectancy at birth, total (years)
+      * **Current health expenditure (% of GDP)** - 
+            Current health expenditure (% of GDP) measures the total amount of money spent on health services and goods as a percentage of a country’s Gross Domestic Product (GDP). This includes expenditures on hospitals, clinics, pharmaceuticals, and other health-related services, both public and private.
+
+         ***Observation*** - The Amount spent on health services and goods as a percentage of a countrys GDP has increased for all the countries except for India which decreased after 2016
+
+     * **Mortality rate, under-5 (per 1,000 live births)** - 
+            Mortality rate, under-5 (per 1,000 live births) is a critical indicator of child health and overall development in a country. It measures the probability that a newborn will die before reaching the age of five, expressed per 1,000 live births.
+
+         ***Observation*** - child health and overall development increased and the Mortality rate under 5 has decreased for all the countries.
+
+     * **Life expectancy at birth, total (years)** - 
+            Life expectancy at birth, total (years) is a statistical measure that estimates the average number of years a newborn is expected to live, assuming that current mortality rates remain constant throughout their lifetime. This metric is a key indicator of the overall health and well-being of a population
+
+         ***Observation*** - Life expectancy at birth, total (years) increased a lot for south africa  compared with Rest of the countries.
+            for rest all countries the Life expectancy at birth, total (years) increased over the span of time
+
+
   * ### Private Sector Data:
      * **Agricultural raw materials exports (% of merchandise exports)** - 
             Agricultural raw materials exports refer to the export of unprocessed or minimally processed materials derived from agriculture. These materials are essential for various industries and include items such as raw cotton, wool, hides, skins, and other crude materials (excluding fuels).
