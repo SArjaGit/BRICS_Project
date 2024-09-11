@@ -189,3 +189,6 @@
                As the Employment in agriculture (% of total employment) increases the Urban population (% of total population) decreases, and as the Employment in agriculture (% of total employment) decreases the Urban population (% of total population) increases. These both metrics are inversely proportional and inversely correlated
 
 
+## Addendum/References
+
+    * https://www.kaggle.com/datasets/docstein/brics-world-bank-indicators
